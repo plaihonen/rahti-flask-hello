@@ -11,7 +11,7 @@ import flask
 STYLE = """
 body {
   /* background-color: silver; */
-  background-image: linear-gradient(red, yellow, orange);
+  background-image: linear-gradient(red, yellow, red);
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
   padding: 10%;
